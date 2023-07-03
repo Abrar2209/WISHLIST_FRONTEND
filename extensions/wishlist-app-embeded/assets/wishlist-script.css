@@ -1,0 +1,30 @@
+.container {
+	text-align: center;
+	font-size: 20pt;
+	font-family: 'arial';
+	margin-top: 200px;
+}
+
+.far {
+ 
+}
+
+.fas {
+	color: red;
+}
+
+.heart {
+	cursor: pointer;
+}
+
+.pulse {
+	animation: pulse .5s;
+}
+.wishlist-engine{
+    z-index: 999;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    margin:auto
+}
